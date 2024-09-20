@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 48 48" viewBox="0 0 48 48" id="chat-balloons">
+  <polygon fill="#f99f10" points="37 25 37 22 38 22 38 7 37 7 37 6 36 6 36 5 20 5 20 4 19 4 19 3 18 3 18 2 17 2 17 1 15 1 15 5 12 5 12 6 11 6 11 7 10 7 10 16 25 16 25 17 26 17 26 25"></polygon>
+  <polygon fill="#f9c900" points="24 16 24 14 26 14 26 12 28 12 28 10 30 10 30 8 32 8 32 6 34 6 34 5 20 5 20 4 19 4 19 3 18 3 18 2 17 2 17 1 15 1 15 5 12 5 12 6 11 6 11 7 10 7 10 16"></polygon>
+  <path fill="#fc5696" d="M47,24h-1v-1H26v8h-1v1h-5v9h1v1h1v1h16v1h1v1h1v1h1v1h2v-4h3v-1h1v-1h1V25h-1V24z"></path>
+  <polygon fill="#fc92c3" points="21 42 22 42 22 43 24 43 24 41 26 41 26 39 28 39 28 37 30 37 30 35 32 35 32 33 34 33 34 31 36 31 36 29 38 29 38 27 40 27 40 25 42 25 42 23 26 23 26 31 25 31 25 32 20 32 20 41 21 41"></polygon>
+  <path fill="#74cc5e" d="M10,34h16v-1h1v-1h1V16h-1v-1h-1v-1H2v1H1v1H0v16h1v1h1v1h3v4h2v-1h1v-1h1v-1h1V34z"></path>
+  <polygon fill="#a8ea92" points="1 33 2 33 2 34 5 34 5 32 7 32 7 30 9 30 9 28 11 28 11 26 13 26 13 24 15 24 15 22 17 22 17 20 19 20 19 18 21 18 21 16 23 16 23 14 2 14 2 15 1 15 1 16 0 16 0 32 1 32"></polygon>
+  <path fill="#fff" d="M29,16v-2h4v2H29z M41,31v1h-2v-1h-2v1h-2v-1h-2v1h-2v-1h-2v1h-3v2h1v1h2v-1h2v1h2v-1h2v1h2v-1h2v1h2v-1h1v-1h1
+	v-2H41z M8,22H6v1H5v2h1v1h2v-1h1v-2H8V22z M15,23h1v2h-1v1h-2v-1h-1v-2h1v-1h2V23z M22,23h1v2h-1v1h-2v-1h-1v-2h1v-1h2V23z"></path>
+  <path d="M47,25v-1h-1v-1h-9v-1h1V7h-1V6h-1V5H20V4h-1V3h-1V2h-1V1h-2v4h-3v1h-1v1h-1v7H2v1H1v1H0v16h1v1h1v1h3v4h2v-1h1v-1h1v-1h1
+	v-1h10v7h1v1h1v1h16v1h1v1h1v1h1v1h2v-4h3v-1h1v-1h1V25H47z M46,40h-1v1h-4v2h-1v-1h-1v-1H23v-1h-1v-6h4v-1h1v-1h1v-7h17v1h1V40z
+	 M9,33H8v1H7v-2H3v-1H2V17h1v-1h22v1h1v14h-1v1H9V33z M35,22v1h-7v-7h-1v-1h-1v-1H12V8h1V7h4V5h1v1h1v1h16v1h1v14H35z"></path>
+</svg>
